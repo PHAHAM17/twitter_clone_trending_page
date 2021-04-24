@@ -1,0 +1,33 @@
+/*#wrap{
+    text-align: center;
+}
+#nav-search{
+    margin: 0 auto;
+    position: relative;
+    width: 2px;
+    margin-bottom: 15px;
+}
+#nav-search{
+    font-size: 13px;
+    line-height: 20px;
+    display: block;
+    width: 163px;
+    height: 14px;
+    padding: 6px 27px 6px 12px;
+    cursor: pointer;
+    color: rgb(102, 102, 102);
+    background-color: #f5f8fa;
+    border-radius: 13px 13px 13px 13px;
+}
+#nav-search .icon{
+    position: absolute;
+    display: block;
+    top: 4px;
+    right: 4px;
+    width: 14px;
+    height: 15px;
+    background: url(../images/);
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
